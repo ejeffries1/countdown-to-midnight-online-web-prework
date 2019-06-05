@@ -9,5 +9,6 @@ end
 
 def countdown_with_sleep(secs)
   while secs > 0
-  slee
+  sleep 1
+  puts 
 end
