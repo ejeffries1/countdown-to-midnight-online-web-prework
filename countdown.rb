@@ -9,7 +9,7 @@ end
 
 def countdown_with_sleep(secs)
   while secs > 0
-  sleep 1
+  sleep 5
   puts "#{secs} SECONDS!"
   number -= 1
 end
