@@ -8,4 +8,5 @@ end
 end
 
 def countdown_with_sleep(secs)
+  secs = 5
 end
